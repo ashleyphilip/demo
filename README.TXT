@@ -14,3 +14,9 @@ I hope this isnt much of a problem
 =======
 THIS IS BOUND TO CAUSE TROUBLE
 >>>>>>> very-bad
+
+
+MODIFYING AGAIN -01
+
+Updates in stage 
+More updates in working directory
